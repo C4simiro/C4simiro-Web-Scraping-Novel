@@ -1,0 +1,5 @@
+# Ignora a pasta onde os PDFs são salvos
+/pdfs/
+
+# Ignora a pasta com as dependências do Node.js
+/node_modules/
