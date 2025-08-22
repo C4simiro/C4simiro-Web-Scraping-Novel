@@ -6,7 +6,7 @@ const fs = require('fs')
 // Gera a lista de URLs de forma automática, de 1 a 1432
 const chapterUrls = []
 for (let i = 1; i <= 1432; i++) {
-    chapterUrls.push(`https://centralnovel.com/lord-of-mysteries-capitulo-${i}/`)
+    chapterUrls.push(`https://xxxxxxxxx.com/xxxxxx-xx-xxxxxxx-xxxxxxxx-${i}/`)
 }
 
 const outputDir = path.join(__dirname, 'pdfs')
